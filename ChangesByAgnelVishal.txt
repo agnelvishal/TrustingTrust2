@@ -1,0 +1,25 @@
+ Already made
+Text
+1) If footer is used, then The word "Available translations" instead of "fan-translations".
+
+UI
+1) Removed footer in i) slides.css  ii) main.js iii) index.html.
+a) Also removed slideSelect in main.js and index.html(including library)
+b) Removed sound control in main.js and index.html.
+2) Since footer removed, height of #main in slides.css is made 100%
+
+
+
+
+Yet to be made
+Need to change to landscape mode.
+See if there are resources which are loaded but not needed in my version.
+Need to add sandbox mode (not sure about game mode) at first screen except ar first load. Maybe file storage needs to be used.
+Multiplayer looks nice idea
+Fullscreen and zoom(user-scalable) needs to be provided in native app.
+
+Note
+Focus first on css. Then focus on modified words(text)
+
+Phonegap, Gonative and webview in android studio can be tried. (Maybe app can be rejected if webview in android studio is used as hardware apis are not needed). Gonative pricing is high.
+So native may not be needed like pwa
