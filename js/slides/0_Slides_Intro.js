@@ -85,6 +85,7 @@ SLIDES.push({
 			o.loading_button.activate();
 			o.loading_button.config.onclick = function(){
 				publish("start/game");
+				screenfull.request();
 				Loader.sounds.bg_music.volume(0.75).loop(true).play(); // play music!
 			};
 		});
@@ -108,7 +109,7 @@ SLIDES.push({
 	onstart: function(self){
 
 		var o = self.objects;
-		
+
 		// Circular Wordbox
 		self.add({
 			id:"intro_text", type:"TextBox",
@@ -119,7 +120,7 @@ SLIDES.push({
 		// Button
 		self.add({
 			id:"intro_button", type:"Button", x:304, y:466, size:"long",
-			text_id:"intro_button", 
+			text_id:"intro_button",
 			message:"slideshow/scratch"
 		});
 

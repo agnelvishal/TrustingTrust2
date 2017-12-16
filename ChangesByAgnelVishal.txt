@@ -23,4 +23,4 @@ Note
 Focus first on css. Then focus on modified words(text)
 
 Phonegap, Gonative and webview in android studio can be tried. (Maybe app can be rejected if webview in android studio is used as hardware apis are not needed). Gonative pricing is high.
-So native may not be needed like pwa
+So native may not be needed like pwa. Actually I have no reason why it should ne native(other than psycological). Being web has advangages of sharability.
