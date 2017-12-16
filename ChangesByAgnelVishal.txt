@@ -17,6 +17,7 @@ See if there are resources which are loaded but not needed in my version.
 Need to add sandbox mode (not sure about game mode) at first screen except ar first load. Maybe file storage needs to be used.
 Multiplayer looks nice idea
 Fullscreen and zoom(user-scalable) needs to be provided in native app.
+Use minify,cdn, webP image format and other compression techniques
 
 Note
 Focus first on css. Then focus on modified words(text)
