@@ -1,6 +1,8 @@
  Already made
 Text
 1) If footer is used, then The word "Available translations" instead of "fan-translations".
+2) Removed "by nicky case" in words.html
+
 
 UI
 1) Removed footer in i) slides.css  ii) main.js iii) index.html.
@@ -17,7 +19,7 @@ See if there are resources which are loaded but not needed in my version.
 Need to add sandbox mode (not sure about game mode) at first screen except ar first load. Maybe file storage needs to be used.
 Multiplayer looks nice idea
 Fullscreen and zoom(user-scalable) needs to be provided in native app.
-Use minify,cdn, webP image format and other compression techniques
+Use minify(remove comments, white space),cdn, webP image format and other compression techniques. Remove unncessaey css etc.
 See if sharing is needed or not. If needed then change position because of fullscreen
 
 Note
