@@ -18,6 +18,7 @@ Need to add sandbox mode (not sure about game mode) at first screen except ar fi
 Multiplayer looks nice idea
 Fullscreen and zoom(user-scalable) needs to be provided in native app.
 Use minify,cdn, webP image format and other compression techniques
+See if sharing is needed or not. If needed then change position because of fullscreen
 
 Note
 Focus first on css. Then focus on modified words(text)

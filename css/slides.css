@@ -62,25 +62,6 @@ s{
 
 
 
-/*************************/
-/******* SOUND *******/
-/*************************/
-
-.sharing{
-	position: absolute;
-	width:120px;
-	height:40px;
-	top:0px;
-	right:0px;
-}
-.sharing img{
-	width: 40px;
-	height: 40px;
-}
-
-/*************************/
-/******* SLIDESHOW *******/
-/*************************/
 
 #slideshow_container{
 	width:0; height:0;
