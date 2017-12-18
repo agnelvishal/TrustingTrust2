@@ -9,7 +9,7 @@ UI
 a) Also removed slideSelect in main.js and index.html(including library)
 b) Removed sound control in main.js and index.html.
 2) Since footer removed, height of #main in slides.css is made 100%
-
+3) Compressed and trimmed bg audio.
 
 
 
@@ -20,7 +20,7 @@ Need to add sandbox mode (not sure about game mode) at first screen except ar fi
 Multiplayer looks nice idea
 Fullscreen and zoom(user-scalable) needs to be provided in native app.
 Use minify(remove comments, white space),cdn, webP image format and other compression techniques. Remove unncessaey css etc.
-See if sharing is needed or not. If needed then change position because of fullscreen
+See if sharing is needed or not. If needed then maybe present at last page. 
 
 Note
 Focus first on css. Then focus on modified words(text)
