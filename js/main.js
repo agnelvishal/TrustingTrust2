@@ -1,6 +1,8 @@
 var slideshow;
 window.onload = function(){
 
+
+	document.addEventListener("click",function(){screenfull.request();},false);
 	// PRELOADER
 	Q.all([
 		Loader.loadAssets(Loader.manifestPreload),
@@ -33,7 +35,7 @@ window.onload = function(){
 		});
 
 		// SOUND
-	
+
 
 		// LOAD REAL THINGS
 		Loader.loadAssets(

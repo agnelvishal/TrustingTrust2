@@ -15,12 +15,15 @@ b) Removed sound control in main.js and index.html.
 
 Yet to be made
 Need to change to landscape mode.
+Intro text can be shown in loading screen.
+
+See why zoomed in full screen.
 See if there are resources which are loaded but not needed in my version.
-Need to add sandbox mode (not sure about game mode) at first screen except ar first load. Maybe file storage needs to be used.
+Need to add sandbox mode (not sure about game mode) or all slides at first screen except at first load. Maybe file storage needs to be used.
 Multiplayer looks nice idea
 Fullscreen and zoom(user-scalable) needs to be provided in native app.
 Use minify(remove comments, white space),cdn, webP image format and other compression techniques. Remove unncessaey css etc.
-See if sharing is needed or not. If needed then maybe present at last page. 
+See if sharing is needed or not. If needed then maybe present at last page.
 
 Note
 Focus first on css. Then focus on modified words(text)
