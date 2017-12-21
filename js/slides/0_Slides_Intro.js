@@ -87,7 +87,7 @@ SLIDES.push({
 				publish("start/game");
 		//	screenfull.request(document.documentElement);
 
-//document.documentElement.requestFullscreen();
+document.documentElement.requestFullscreen();
 				Loader.sounds.bg_music.volume(0.75).loop(true).play(); // play music!
 			};
 		});
