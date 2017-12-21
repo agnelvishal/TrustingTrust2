@@ -38,8 +38,10 @@ Need to modify css when full screen. Maybe it is becoming responsive in full scr
 See if there are resources which are loaded but not needed in my version.
 Need to add sandbox mode (not sure about game mode) or all slides at first screen except at first load. Maybe file storage needs to be used.
 Multiplayer looks nice idea
-Fullscreen and zoom(user-scalable) needs to be provided in native app.
+Fullscreen and zoom(user-scalable) can be provided in native app.
 Use minify(remove comments, white space),cdn, webP image format and other compression techniques. Remove unncessaey css etc.
+Remove splash if performance and layout improvement.
+Scratch seems sluggish. Something can be done.
 See if sharing is needed or not. If needed then maybe present at last page.
 
 Note
