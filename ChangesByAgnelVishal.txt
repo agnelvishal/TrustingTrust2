@@ -1,3 +1,5 @@
+
+
  Already made
 Text
 1) If footer is used, then The word "Available translations" instead of "fan-translations".
@@ -14,10 +16,11 @@ b) Removed sound control in main.js and index.html.
 
 
 Yet to be made
-Need to change to landscape mode.
+Should learn css basics
+Need to change to landscape mode. Maybe manifest can be used for that.  https://developers.google.com/web/fundamentals/native-hardware/fullscreen/
 Intro text can be shown in loading screen.
 
-See why zoomed in full screen.
+Need to modify css when full screen. Maybe it is becoming responsive in full scrren mode. Maybe particular element needs to be selected for fullsceen.
 See if there are resources which are loaded but not needed in my version.
 Need to add sandbox mode (not sure about game mode) or all slides at first screen except at first load. Maybe file storage needs to be used.
 Multiplayer looks nice idea
