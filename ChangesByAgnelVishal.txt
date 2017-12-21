@@ -1,4 +1,18 @@
 
+https://github.com/ncase/trust/issues/64
+https://www.quora.com/unanswered/The-page-agnelvishal-github-io-TrustingTrust-is-zoomed-in-firefox-for-android-and-on-full-screen-mode-in-chrome-for-android-What-should-be-done?__filter__&__nsrc__=2&__snid3__=1814555113
+https://stackoverflow.com/questions/47921020/the-webpage-is-zoomed-in-firefox-for-android-and-in-full-screen-mode-in-chrome-f
+0
+Asked as personal message in quora and fb.
+
+Web page is at https://agnelvishal.github.io/TrustingTrust/
+Source code is at https://github.com/agnelvishal/TrustingTrust
+
+Hackhands?
+
+Hi. I hope I am not disturbing you. The page https://agnelvishal.github.io/TrustingTrust/ is zoomed in firefox for android and in full screen mode in chrome for android Source code is at https://github.com/agnelvishal/TrustingTrust Can you tell why is it so?
+
+
 
  Already made
 Text
@@ -20,7 +34,7 @@ Should learn css basics
 Need to change to landscape mode. Maybe manifest can be used for that.  https://developers.google.com/web/fundamentals/native-hardware/fullscreen/
 Intro text can be shown in loading screen.
 
-Need to modify css when full screen. Maybe it is becoming responsive in full scrren mode. Maybe particular element needs to be selected for fullsceen.
+Need to modify css when full screen. Maybe it is becoming responsive in full screen mode.Need to see and experiemtn with meta viewport. Maybe particular element needs to be selected for fullsceen.
 See if there are resources which are loaded but not needed in my version.
 Need to add sandbox mode (not sure about game mode) or all slides at first screen except at first load. Maybe file storage needs to be used.
 Multiplayer looks nice idea
