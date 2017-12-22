@@ -52,7 +52,7 @@ Scratcher.scratchAnim = function(dom, scratchIn){
 	var frame = 0;
 	var interval = setInterval(function(){
 		frame++;
-		if(frame>19){
+		if(frame>39){
 			clearInterval(interval);
 			deferred.resolve();
 		}else{
